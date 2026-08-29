@@ -34,7 +34,7 @@ A clean, structured repository tracking my daily programming journey, problem-so
 
 ## 🔄 Dynamic Learning & Progress Updates
 
-> 📌 **Note:** This repository is an active learning log and is updated continuously. As I practice daily, solve new problems, and master core computer science concepts, new source files (`.c`) will be added and committed to their respective topic directories.
+📌 **Note:** This repository is an active learning log and is updated continuously. As I practice daily, solve new problems, and master core computer science concepts, new source files (`.c`) will be added and committed to their respective topic directories.
 
 ---
 ## 🛠️ Tools Used
