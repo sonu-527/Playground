@@ -4,7 +4,7 @@ int main(){
     printf("enter a number= ");
     scanf("%f", &x);
     y = x/2;
-    printf("halved=%f",y);
+    printf("halved=%.2f",y);
     return 0;
 }
 
